@@ -32,6 +32,14 @@ export default defineUserConfig({
 						text: "贡献文档",
 						link: "/guide/contributing.html",
 					},
+					{
+						text: "西农MC服务器游玩指南",
+						link: "/guide/server/serverguide.html",
+					},
+					{
+						text: "西农MC服务器游玩条约",
+						link: "/guide/server/serverrules.html",
+					},
 				],
 			},
 			{
@@ -91,6 +99,14 @@ export default defineUserConfig({
 				{
 					text: "贡献文档",
 					link: "/guide/contributing.html",
+				},
+				{
+					text: "西农MC服务器游玩指南",
+					link: "/guide/server/serverguide.html",
+				},
+				{
+					text: "西农MC服务器游玩条约",
+					link: "/guide/server/serverrules.html",
 				},
 			],
 			"/tutorial/minecraft_game_guide": [
