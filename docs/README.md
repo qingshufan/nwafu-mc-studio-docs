@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: /images/logo.png
-heroHeight: 200
+heroHeight: 240
 tagline: "西农MC工作室文档"
 actions:
   - text: 进入文档
