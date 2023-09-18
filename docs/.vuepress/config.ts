@@ -1,5 +1,6 @@
 import { defaultTheme, defineUserConfig } from "vuepress";
 import { searchProPlugin } from "vuepress-plugin-search-pro";
+import { mdEnhancePlugin } from "vuepress-plugin-md-enhance";
 
 export default defineUserConfig({
 	lang: "zh-CN",
@@ -10,6 +11,13 @@ export default defineUserConfig({
 		searchProPlugin({
 			autoSuggestions: true,
 			queryHistoryCount: 5,
+		}),
+		mdEnhancePlugin({
+			figure: true,
+			mermaid: true,
+			container: true,
+			imgLazyload: true,
+			imgSize: true,
 		}),
 	],
 	theme: defaultTheme({
@@ -89,6 +97,15 @@ export default defineUserConfig({
 					},
 				],
 			},
+			{
+				text: "TODO",
+				children: [
+					{
+						text: "新服务器规划",
+						link: "/todos/newserver.html",
+					},
+				],
+			},
 		],
 		sidebar: {
 			"/guide": [
@@ -127,6 +144,12 @@ export default defineUserConfig({
 				{
 					text: "Markdown 中文规范",
 					link: "/tutorial/markdown_guide/styleguide.html",
+				},
+			],
+			"/todos": [
+				{
+					text: "新服务器规划",
+					link: "/todos/newserver.html",
 				},
 			],
 		},
