@@ -23,7 +23,16 @@ export default defineUserConfig({
 		navbar: [
 			{
 				text: "指南",
-				link: "/guide/welcome.html",
+				children: [
+					{
+						text: "欢迎",
+						link: "/guide/welcome.html",
+					},
+					{
+						text: "贡献文档",
+						link: "/guide/contributing.html",
+					},
+				],
 			},
 			{
 				text: "素材库",
@@ -36,6 +45,10 @@ export default defineUserConfig({
 						text: "我的世界游玩指南",
 						link: "/tutorial/minecraft_game_guide/",
 						activeMatch: "^/tutorial/minecraft_game_guide/",
+					},
+					{
+						text: "Markdown指南",
+						link: "/tutorial/markdown_guide/",
 					},
 				],
 			},
@@ -70,6 +83,16 @@ export default defineUserConfig({
 			},
 		],
 		sidebar: {
+			"/guide": [
+				{
+					text: "欢迎",
+					link: "/guide/welcome.html",
+				},
+				{
+					text: "贡献文档",
+					link: "/guide/contributing.html",
+				},
+			],
 			"/tutorial/minecraft_game_guide": [
 				{
 					text: "我的世界游玩指南",
@@ -78,6 +101,16 @@ export default defineUserConfig({
 				{
 					text: "我的世界 Java 版下载教程",
 					link: "/tutorial/minecraft_game_guide/download_game_java_edition.html",
+				},
+			],
+			"/tutorial/markdown_guide": [
+				{
+					text: "Markdown 语法教程",
+					link: "/tutorial/markdown_guide/",
+				},
+				{
+					text: "Markdown 中文规范",
+					link: "/tutorial/markdown_guide/styleguide.html",
 				},
 			],
 		},
