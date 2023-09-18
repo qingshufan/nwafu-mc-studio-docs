@@ -1,12 +1,17 @@
 import { defaultTheme, defineUserConfig } from "vuepress";
-import { searchPlugin } from "@vuepress/plugin-search";
+import { searchProPlugin } from "vuepress-plugin-search-pro";
 
 export default defineUserConfig({
 	lang: "zh-CN",
 	title: "西农MC工作室",
 	description: "西农MC工作室文档",
 	head: [["link", { rel: "icon", href: "/images/favicon.png" }]],
-	plugins: [searchPlugin()],
+	plugins: [
+		searchProPlugin({
+			autoSuggestions: true,
+			queryHistoryCount: 5,
+		}),
+	],
 	theme: defaultTheme({
 		home: "/",
 		docsDir: "docs",
@@ -21,7 +26,7 @@ export default defineUserConfig({
 				link: "/guide/welcome.html",
 			},
 			{
-				text: "资源库",
+				text: "素材库",
 				link: "/materials/",
 			},
 			{
