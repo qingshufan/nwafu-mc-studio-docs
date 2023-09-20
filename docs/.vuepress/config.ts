@@ -1,5 +1,5 @@
 import { defineUserConfig } from "vuepress";
-import { docsearchPlugin } from "@vuepress/plugin-docsearch";
+import { searchProPlugin } from "vuepress-plugin-search-pro";
 import theme from "./theme.js";
 
 export default defineUserConfig({
@@ -12,10 +12,15 @@ export default defineUserConfig({
 	theme,
 
 	plugins: [
-		docsearchPlugin({
-			appId: "VQH8FYTQ0W",
-			apiKey: "7e9c791ef7016c1d766fe3b190ce1bb0",
-			indexName: "nwafu-com",
+		// docsearchPlugin({
+		// 	appId: "VQH8FYTQ0W",
+		// 	apiKey: "7e9c791ef7016c1d766fe3b190ce1bb0",
+		// 	indexName: "nwafu-com",
+		// }),
+		searchProPlugin({
+			indexContent: true,
+			autoSuggestions: true,
+			customFields: [],
 		}),
 	],
 	// Enable it with pwa
