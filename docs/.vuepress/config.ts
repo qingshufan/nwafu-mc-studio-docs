@@ -13,7 +13,7 @@ export default defineUserConfig({
 			queryHistoryCount: 5,
 		}),
 		mdEnhancePlugin({
-			figure: true,
+			figure: false,
 			mermaid: true,
 			container: true,
 			imgLazyload: true,
@@ -40,14 +40,6 @@ export default defineUserConfig({
 						text: "贡献文档",
 						link: "/guide/contributing.html",
 					},
-					{
-						text: "西农MC服务器游玩指南",
-						link: "/guide/server/serverguide.html",
-					},
-					{
-						text: "西农MC服务器游玩条约",
-						link: "/guide/server/serverrules.html",
-					},
 				],
 			},
 			{
@@ -58,13 +50,17 @@ export default defineUserConfig({
 				text: "教程",
 				children: [
 					{
-						text: "我的世界游玩指南",
+						text: "我的世界游玩教程",
 						link: "/tutorial/minecraft_game_guide/",
 						activeMatch: "^/tutorial/minecraft_game_guide/",
 					},
 					{
-						text: "Markdown指南",
+						text: "Markdown教程",
 						link: "/tutorial/markdown_guide/",
+					},
+					{
+						text: "西农MC服务器游玩指南",
+						link: "/tutorial/server/serverguide.html",
 					},
 				],
 			},
@@ -144,6 +140,20 @@ export default defineUserConfig({
 				{
 					text: "Markdown 中文规范",
 					link: "/tutorial/markdown_guide/styleguide.html",
+				},
+			],
+			"/tutorial/server": [
+				{
+					text: "西农MC服务器游玩指南",
+					link: "/tutorial/server/serverguide.html",
+				},
+				{
+					text: "西农MC服务器游玩条约",
+					link: "/tutorial/server/serverrules.html",
+				},
+				{
+					text: "外置登录教程",
+					link: "/tutorial/server/serverauth.html",
 				},
 			],
 			"/todos": [
