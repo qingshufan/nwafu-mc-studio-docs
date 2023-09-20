@@ -1,3 +1,8 @@
+---
+title: "指南"
+order: 1
+---
+
 # 西农 MC 工作室文档
 
 :::warning
