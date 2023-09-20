@@ -1,13 +1,11 @@
 ---
 title: "我的世界游玩教程"
 order: 2
+author: "OrzMiku"
+category: "教程"
 ---
 
 # 我的世界游玩教程
-
-::: tip
-欢迎各位提交自己的游玩指南，如果你了解 Vuepress，你可以在仓库提交 PR 来新增你的页面，我们会对你的内容进行审查。
-:::
 
 ## Minecraft 简介
 

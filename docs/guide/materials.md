@@ -1,6 +1,8 @@
 ---
 title: "素材库"
 order: 3
+author: "OrzMiku"
+category: "指南"
 ---
 
 # 素材库

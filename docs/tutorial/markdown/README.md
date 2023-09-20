@@ -1,6 +1,8 @@
 ---
 title: "Markdown 语法教程"
 order: 3
+author: "OrzMiku"
+category: "教程"
 ---
 
 # Markdown 语法教程
