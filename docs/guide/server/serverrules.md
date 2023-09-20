@@ -1,3 +1,8 @@
+---
+author: "OrzMiku"
+category: "指南"
+---
+
 # 西农 MC 服务器游玩规范
 
 ::: warning

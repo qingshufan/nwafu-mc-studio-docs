@@ -1,6 +1,8 @@
 ---
 title: "指南"
 order: 1
+author: "OrzMiku"
+category: "指南"
 ---
 
 # 西农 MC 工作室文档

@@ -1,6 +1,8 @@
 ---
 title: "贡献文档"
 order: 2
+author: "OrzMiku"
+category: "指南"
 ---
 
 # 贡献文档
@@ -71,3 +73,11 @@ feat(Controller):用户查询接口开发
 :::
 
 [点击查阅 Markdown 中文规范](/tutorial/markdown_guide/styleguide.html)
+
+## Vuepress 与 hope 主题
+
+[Vuepress 官方文档](https://vuejs.press/zh/)
+
+[Vuepress 文档](https://theme-hope.vuejs.press/zh/cookbook/vuepress/)
+
+[主题文档](https://theme-hope.vuejs.press/zh/)

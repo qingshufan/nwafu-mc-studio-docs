@@ -16,5 +16,5 @@ actions:
     link: "https://skin.nwafu.com.cn"
 
 copyright: false
-footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a> 主题
+footer: <a href="/">西农MC工作室文档</a> | Theme <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a>
 ---

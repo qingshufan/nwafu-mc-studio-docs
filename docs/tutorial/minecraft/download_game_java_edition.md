@@ -1,3 +1,8 @@
+---
+author: "OrzMiku"
+category: "教程"
+---
+
 # 我的世界 Java 版下载教程
 
 ::: warning

@@ -1,8 +1,13 @@
-# 西农 MC 服务器游玩指南
+---
+author: "OrzMiku"
+category: "指南"
+---
 
 :::warning
 文档正在建设中，欢迎[贡献你的内容](/guide/contributing.html)。
 :::
+
+# 西农 MC 服务器游玩指南
 
 **服务器 IP：mc.huaxt.top:37125**
 
@@ -24,11 +29,11 @@
 :::
 
 ::: info 我不知道如何使用[皮肤站]登录？
-请阅读[外置登录教程](/tutorial/server/serverauth.html)。
+请阅读[外置登录教程](/guide/server/serverauth.html)。
 :::
 
-- 游玩服务器之前，请先阅读[西农 MC 服务器游玩条约](/tutorial/server/serverrules.html)。进入服务器后，默认同意该条约。请遵循条约中的各项规则。
-- 游戏下载请参考[我的世界 Java 版下载教程](/tutorial/minecraft_game_guide/download_game_java_edition.html)章节。服务器目前不支持基岩版进入。
+- 游玩服务器之前，请先阅读[西农 MC 服务器游玩条约](serverrules.md)。进入服务器后，默认同意该条约。请遵循条约中的各项规则。
+- 游戏下载请参考[我的世界 Java 版下载教程](/tutorial/minecraft/download_game_java_edition.md)章节。服务器目前不支持基岩版进入。
 
 ## 特色介绍
 

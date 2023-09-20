@@ -1,6 +1,8 @@
 ---
 title: "新服务器规划"
 order: 2
+author: "OrzMiku"
+category: "计划"
 ---
 
 # 新服务器规划
