@@ -1,6 +1,7 @@
 ---
 author: "OrzMiku"
 category: "指南"
+order: 1
 ---
 
 # 西农 MC 服务器游玩规范
