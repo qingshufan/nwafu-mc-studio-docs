@@ -29,6 +29,10 @@ export default navbar([
 				link: "https://skin.nwafu.com.cn",
 			},
 			{
+				text: "服务器网页地图",
+				link: "https://map.mc.nwafu.com.cn",
+			},
+			{
 				text: "我的世界官网",
 				link: "https://www.minecraft.net/zh-hans",
 			},

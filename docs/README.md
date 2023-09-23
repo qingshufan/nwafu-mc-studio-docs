@@ -46,6 +46,10 @@ highlights:
         icon: book
         details: "我们提供了一些教程，如MC的游玩教程，Markdown语法教程。你也可以投稿自己的教程，欢迎共享文档！"
         link: /tutorial
+      - title: 地图
+        icon: map
+        details: "西农MC服务器的网页地图，快来看看服务器里都有什么吧！"
+        link: /guide/server/map.md
 
 copyright: false
 footer: <a href="/">西农MC工作室文档</a> | Theme <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a>
