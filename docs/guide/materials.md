@@ -27,3 +27,4 @@ category: "指南"
 | Logo         | ![logo_B4696E99.png](./materials/Studio/logo_B4696E99.png)    |
 | Favicon(raw) | ![logo_B4696E99.png](./materials/Studio/Favicon_raw.webp)     |
 | Favicon(raw) | ![logo_B4696E99.png](./materials/Studio/Favicon_128x.webp)    |
+| Banner_1     | ![logo_B4696E99.png](./materials/Banner/banner_1.png)         |
