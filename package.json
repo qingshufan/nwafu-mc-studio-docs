@@ -8,9 +8,6 @@
 		"docs:dev": "vuepress dev docs",
 		"docs:build": "vuepress build docs",
 		"docs:clean-dev": "vuepress dev docs --clean-cache",
-		"blog:dev": "vuepress dev blog",
-		"blog:build": "vuepress build blog",
-		"blog:clean-dev": "vuepress dev blog --clean-cache",
 		"update-package": "pnpm dlx vp-update"
 	},
 	"license": "MIT",

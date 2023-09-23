@@ -1,9 +1,12 @@
 ---
 author: "OrzMiku"
 category: "指南"
+tag:
+  - 皮肤站
+order: 2
 ---
 
-# 外置登录指南
+# 外置登录
 
 ## 配置启动器
 

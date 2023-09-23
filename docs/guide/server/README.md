@@ -1,6 +1,7 @@
 ---
 author: "OrzMiku"
 category: "指南"
+order: 4
 ---
 
 :::warning
@@ -9,11 +10,15 @@ category: "指南"
 
 # 西农 MC 服务器游玩指南
 
+::: tip 新服务器不删档测试开启啦！
+
+- 新版服务器 IP：mc.nwafu.com.cn
+- 新版服务器 IP2：play.nwafu.com.cn
+- 版本：1.20.1
+
+:::
+
 **服务器 IP：mc.huaxt.top:37125**
-
-**新版服务器 IP：mc.nwafu.com.cn**
-
-**新版服务器 IP2：play.nwafu.com.cn**
 
 **服务器版本： 1.20.1 Java 版**
 
@@ -29,7 +34,7 @@ category: "指南"
 :::
 
 ::: info 我不知道如何使用[皮肤站]登录？
-请阅读[外置登录教程](/guide/server/serverauth.html)。
+请阅读[外置登录教程](/guide/skin/authlib.md)。
 :::
 
 - 游玩服务器之前，请先阅读[西农 MC 服务器游玩条约](serverrules.md)。进入服务器后，默认同意该条约。请遵循条约中的各项规则。
