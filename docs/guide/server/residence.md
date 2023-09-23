@@ -1,3 +1,11 @@
+---
+author: "OrzMiku"
+category: "指南"
+tag:
+  - 领地
+order: 3
+---
+
 # 领地系统指南
 
 Residence 插件是 Minecraft 的一个非常实用的领地保护插件，它可以帮助玩家保护自己的领地，防止其他玩家的破坏和侵入。本指南将带领你了解如何使用 Residence 插件，让你的 Minecraft 游戏体验更加安全和愉快。

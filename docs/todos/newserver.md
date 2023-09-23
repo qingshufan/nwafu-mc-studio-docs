@@ -1,5 +1,5 @@
 ---
-title: "新服务器规划"
+title: "[已完成] 新服务器规划"
 order: 2
 author: "OrzMiku"
 category: "计划"
@@ -79,5 +79,3 @@ graph LR
 - AureliumSkills [已实装]
 - 粘液科技 [暂不实装]
 - 农作物系统 [已实装]
-
-## TODO
