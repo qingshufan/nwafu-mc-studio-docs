@@ -1,8 +1,8 @@
 ---
-title: "贡献文档"
+title: '贡献文档'
 order: 2
-author: "OrzMiku"
-category: "指南"
+author: 'OrzMiku'
+category: '指南'
 ---
 
 # 贡献文档
@@ -72,7 +72,7 @@ feat(Controller):用户查询接口开发
 ::: tip 我们对于 Markdown 并没有严格的要求，但请尽量遵循这一规范。
 :::
 
-[点击查阅 Markdown 中文规范](/tutorial/markdown_guide/styleguide.html)
+[点击查阅 Markdown 中文规范](/tutorial/markdown/)
 
 ## Vuepress 与 hope 主题
 

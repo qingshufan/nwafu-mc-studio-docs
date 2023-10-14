@@ -1,6 +1,6 @@
 ---
-author: "OrzMiku"
-category: "指南"
+author: 'OrzMiku'
+category: '指南'
 tag:
   - 服务器地图
 order: 5
@@ -8,11 +8,15 @@ order: 5
 
 # 服务器地图
 
-## Xaero 地图同步
+## Xaero 地图
 
-服务器为 Xaero Map 模组提供云端同步，你可以安装[Xaero 的世界地图](https://modrinth.com/mod/xaeros-world-map)和[Xaero 的小地图](https://modrinth.com/mod/xaeros-minimap)在服务器使用地图功能。
+服务器为 Xaero Map 模组提供服务器自动选择功能，你可以安装[Xaero 的世界地图](https://modrinth.com/mod/xaeros-world-map)和[Xaero 的小地图](https://modrinth.com/mod/xaeros-minimap)在服务器使用地图功能。
 
 ## 在线网页地图
+
+::: warning 网页地图已经关闭
+由于性能原因，服务器已经关闭了网页地图功能。此项目不再可用。
+:::
 
 服务器提供了一个在线网页地图，网址：[https://map.mc.nwafu.com.cn/](https://map.mc.nwafu.com.cn/)。
 
@@ -26,7 +30,7 @@ order: 5
   - 查看光标所在的坐标。
   - 刷新地图。
 
-## 命令
+### 网页地图命令
 
 - `/dynmap hide`: 在地图中隐藏自己。
 - `/dynmap show`: 在地图中显示自己。
