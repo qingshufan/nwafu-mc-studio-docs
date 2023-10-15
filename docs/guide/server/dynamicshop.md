@@ -16,9 +16,11 @@ order: 6
 
 ## 配置文件
 
-服务器公共配置文件仓库：https://github.com/OrzMiku/mc-server-public-config
-配置文件 Wiki：https://durumi.gitbook.io/en-dynamicshop-3-wiki
-动态商店可视化编辑器：https://www.spigotmc.org/resources/dynamicshop-yml-editor.108570/
+服务器公共配置文件仓库：[https://github.com/OrzMiku/mc-server-public-config](https://github.com/OrzMiku/mc-server-public-config)
+
+配置文件 Wiki：[https://durumi.gitbook.io/en-dynamicshop-3-wiki](https://durumi.gitbook.io/en-dynamicshop-3-wiki)
+
+动态商店可视化编辑器：[https://www.spigotmc.org/resources/dynamicshop-yml-editor.108570/](https://www.spigotmc.org/resources/dynamicshop-yml-editor.108570/)
 
 上架的物品种类，物品的初始价格由配置文件决定，我们将配置文件托管在 Github 上，欢迎各位玩家对物品种类与价格提出建议。
 
